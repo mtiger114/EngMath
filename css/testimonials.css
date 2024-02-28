@@ -1,0 +1,33 @@
+.testimonial {
+  animation: anim 1s ease-in-out;
+}
+
+.testimonial.disactive {
+  display: none !important;
+}
+.testimonial.active {
+  display: block;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+
+/* .navigation-btn {
+
+} */
+
+@keyframes anim {
+  from {
+    opacity: 0;
+    right: 50%;
+    transform: translateX(10%);
+  }
+  to {
+    opacity: 1;
+    right: 100%;
+    transform: translateX(0%);
+  }
+}
