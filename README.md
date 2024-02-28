@@ -1,6 +1,7 @@
 # EngZ Online Education Platform
 <br/>
-
+<br/>
+<br/>
 Welcome to EngZ - where education meets innovation! EngZ is not just another online education platform; it's an immersive learning experience designed to spark curiosity, fuel creativity, and empower learners to unlock their full potential. Whether you're a student, professional, or lifelong learner, EngZ is here to make education exciting and accessible.
 
 ## Table of Contents
@@ -12,6 +13,7 @@ Welcome to EngZ - where education meets innovation! EngZ is not just another onl
 -Contribute
 -Support
 
+<br/>
 <br/>
 # Overview
 EngZ is a cutting-edge online education platform that redefines the way we learn. We believe that education should be engaging, interactive, and tailored to individual needs. Our platform is built with a passion for learning and a commitment to providing high-quality, diverse educational content.
@@ -49,8 +51,10 @@ Join a vibrant community of learners from around the world. Collaborate on proje
 .Engage with the Community: Join discussions, connect with fellow learners, and make the most of the collaborative learning environment.
 
 <br/>
+<br/>
 
-#Courses
+# Courses
+<br/>
 Discover courses that cater to various interests and skill levels. From foundational concepts to advanced techniques, EngZ offers a broad spectrum of courses across disciplines such as:
 
 - Technology
@@ -61,6 +65,7 @@ Discover courses that cater to various interests and skill levels. From foundati
 - and much more!
 
 <br/>
+<br/>
 # Community
 Connect with a diverse community of learners, instructors, and industry professionals. EngZ's community platform provides:
 
@@ -70,7 +75,7 @@ Connect with a diverse community of learners, instructors, and industry professi
 .Mentorship programs
 
 <br/>
-
+<br/>
 # Contribute
 Want to contribute to the EngZ community? We welcome contributions in various forms:
 
@@ -81,7 +86,7 @@ Want to contribute to the EngZ community? We welcome contributions in various fo
 .Check out our Contribution Guidelines to get started!
 
 <br/>
-
+<br/>
 # Support
 For any queries, assistance, or feedback, reach out to our dedicated support team at support@engz.com. We're here to ensure your learning experience on EngZ is seamless and enjoyable!
 
