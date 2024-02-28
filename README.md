@@ -53,12 +53,12 @@ Join a vibrant community of learners from around the world. Collaborate on proje
 #Courses
 Discover courses that cater to various interests and skill levels. From foundational concepts to advanced techniques, EngZ offers a broad spectrum of courses across disciplines such as:
 
--Technology
--Business and Entrepreneurship
--Arts and Design
--Science and Mathematics
--Language and Literature
--and much more!
+- Technology
+- Business and Entrepreneurship
+- Arts and Design
+- Science and Mathematics
+- Language and Literature
+- and much more!
 
 <br/>
 # Community
