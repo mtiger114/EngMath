@@ -687,6 +687,16 @@ strong {
   text-align: center;
 }
 
+.hoho {
+  content: "";
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  height: 50vh;
+  background-color: var(--secondary-color);
+  z-index: -1000;
+}
+
 .hero-50 {
   height: auto;
   min-height: 540px;
